@@ -10,12 +10,15 @@ Refine, debug, and optimize material handling escapement sequences for an indust
 **Deliverables** 
 PLC Control Logic (SCL), HMI Monitoring Screens, and Commissioning Documentation.
 
-**Status** 
-Successfully commissioned, debugged, and signed off by the end-client.
 
-* **Control Platform** Programmable Logic Controller (PLC): Siemens SIMATIC S7-1500F (CPU 1511TF-1 PN)
-* **Development Environment** Siemens TIA Portal (v15 or higher)
-* **Programming Language** SCL (Structured Control Language, IEC 61131-3 compliant)
+**Control Platform** 
+Programmable Logic Controller (PLC): Siemens SIMATIC S7-1500F (CPU 1511TF-1 PN)
+
+**Development Environment** 
+Siemens TIA Portal (v15 or higher)
+
+**Programming Language**
+SCL (Structured Control Language, IEC 61131-3 compliant)
 
 **Context & Problem Statement**
 
