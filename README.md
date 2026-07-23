@@ -1,17 +1,16 @@
 **Project Type** 
-
 Independent Engineering Contract / Technical Subcontract
+
 **Role** 
-
 Automation & Controls Contractor
+
 **Objective** 
-
 Refine, debug, and optimize material handling escapement sequences for an industrial packaging line.
+
 **Deliverables** 
-
 PLC Control Logic (SCL), HMI Monitoring Screens, and Commissioning Documentation.
-**Status** 
 
+**Status** 
 Successfully commissioned, debugged, and signed off by the end-client.
 
 **Context & Problem Statement**
