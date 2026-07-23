@@ -7,25 +7,32 @@ To address operational bottlenecks on a high-speed packaging conveyor system. Th
 Redesign the control algorithm from scratch using clean-room Structured Control Language (SCL). The target architecture required a modular, timer-controlled escapement sequence capable of direct adjustment via a centralized Siemens HMI, alongside robust fault-handling routines to catch mechanical failures before they caused system pile-ups.
 
 **Project Type** 
+
 Independent Engineering Contract / Technical Subcontract
 
 **Role** 
+
 Automation & Controls Contractor
 
 **Objective** 
+
 Refine, debug, and optimize material handling escapement sequences for an industrial packaging line.
 
 **Deliverables** 
+
 PLC Control Logic (SCL), HMI Monitoring Screens, and Commissioning Documentation.
 
 
 **Control Platform** 
+
 Programmable Logic Controller (PLC): Siemens SIMATIC S7-1500F (CPU 1511TF-1 PN)
 
 **Development Environment** 
+
 Siemens TIA Portal (v15 or higher)
 
 **Programming Language**
+
 SCL (Structured Control Language, IEC 61131-3 compliant)
 
 
