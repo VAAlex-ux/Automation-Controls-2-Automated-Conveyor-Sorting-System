@@ -74,6 +74,12 @@ Fig.B Sensors 1.1A1 / 1.1A2
 Fig.C Electrical Connection
 </p>
 
+<p align="center">
+<img width="675" height="496" alt="image" src="https://github.com/user-attachments/assets/45f4a1df-95bf-4b2a-8296-7ee41b664aec" />
+</p>
+<p align="center">
+Fig.D 1.1A1 / 1.1A2 / 3.1Y1 Relays
+</p>
 
 
 
