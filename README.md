@@ -50,8 +50,9 @@ Proximity photoelectric sensor stationed upstream to register the presence of in
 
 **D - Schematics**
 
-
-   <img width="564" height="203" alt="image" src="https://github.com/user-attachments/assets/a471f7ee-7bca-48de-a2ee-bd0ee69b6696" /> <img width="274" height="343" alt="image" src="https://github.com/user-attachments/assets/a8bd354b-acfc-4350-a61e-ad09f0622eea" />
+<p align="center">
+<img width="564" height="203" alt="image" src="https://github.com/user-attachments/assets/a471f7ee-7bca-48de-a2ee-bd0ee69b6696" /> <img width="274" height="343" alt="image" src="https://github.com/user-attachments/assets/a8bd354b-acfc-4350-a61e-ad09f0622eea" />
+</p>
 
 
 
