@@ -35,7 +35,13 @@ Proximity photoelectric sensor stationed upstream to register the presence of in
 
 **Valve_Stopper_Control (Pneumatic Actuator)** A 5/2-way single-solenoid directional control valve managing air distribution to a linear pneumatic cylinder acting as a physical singulation barrier.
 
+**Functional Requirements & Control Logic**
 
+**Primary Sequence (Interlocking Logic)Default State (Resting)** The pneumatic stopper cylinder is configured to be normally extended (Blocking Position) to prevent unregulated product bypass during system idleness or power-up.
+
+**Product Detection** When PE_Sensor_Infeed transitions to TRUE (detecting a package), the control valve Valve_Stopper_Control energizes, venting/pressurizing the appropriate cylinder chambers to extend the cylinder forcefully and lock the package in queue.
+
+**Clearing Transition** When PE_Sensor_Infeed transitions to FALSE (the trail edge of the package clears the optical beam), the control logic triggers the retraction cycle to release the package downstream.
 
 
 
